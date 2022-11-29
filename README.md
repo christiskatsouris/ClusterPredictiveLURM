@@ -33,7 +33,7 @@ In this paper we extend the methodology proposed in the R package [‘PermLURM�
 
 # Code of Coduct
 
-Please note that the [‘ClusterPredictiveLURM ’]([https://github.com/christiskatsouris/PermLURM](https://github.com/christiskatsouris/ClusterPredictiveLURM)) R project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
+Please note that the [‘ClusterPredictiveLURM ’](https://github.com/christiskatsouris/PermLURM](https://github.com/christiskatsouris/ClusterPredictiveLURM) R project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
 
 # Acknowledgments
 
