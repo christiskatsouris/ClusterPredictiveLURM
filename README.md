@@ -19,6 +19,10 @@ In this paper we extend the methodology proposed in the R package [â€˜PermLURMâ€
 
 - Hansen, B. E., & Lee, S. (2019). "Asymptotic theory for clustered samples". Journal of econometrics, 210(2), 268-290.
 
+- Krampe, J., Paparoditis, E., & Trenkler, C. (2022). Structural inference in sparse high-dimensional vector autoregressions. Journal of Econometrics.
+
+- Krampe, J., Kreiss, J. P., & Paparoditis, E. (2021). Bootstrap based inference for sparse high-dimensional time series models. Bernoulli, 27(3), 1441-1466.
+
 - Katsouris, C. (2021). Optimal Portfolio Choice and Stock Centrality for Tail Risk Events. arXiv preprint arXiv:2112.12031.
 
 -  Kostakis, A., Magdalinos, T., & Stamatogiannis, M. P. (2015). "Robust econometric inference for stock return predictability". The Review of Financial Studies, 28(5), 1506-1553.
