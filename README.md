@@ -31,6 +31,13 @@ In this paper we extend the methodology proposed in the R package [‘PermLURM�
 
 - Schennach, S. M. (2018). "Long memory via networking". Econometrica, 86(6), 2221-2248.
 
+- Zhu, X., Pan, R., Li, G., Liu, Y., & Wang, H. (2017). Network vector autoregression. The Annals of Statistics, 45(3), 1096-1123.
+
+- Zhu, X., Wang, W., Wang, H., & Härdle, W. K. (2019). Network quantile autoregression. Journal of econometrics, 212(1), 345-358.
+
+- Zhu, X., & Pan, R. (2020). Grouped network vector autoregression. Statistica Sinica, 30(3), 1437-1462.
+
+
 # Code of Coduct
 
 Please note that the [ClusterPredictiveLURM](https://github.com/christiskatsouris/ClusterPredictiveLURM) R project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
