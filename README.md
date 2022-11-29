@@ -4,6 +4,8 @@
 
 ## Description (Work-in-Progress)
 
+### Drafted December 2021
+
 In this paper we extend the methodology proposed in the R package [‘PermLURM’](https://github.com/christiskatsouris/PermLURM) (see, also ['ivxPredictive'](https://github.com/christiskatsouris/ivxPredictive)) in order to develop a robust econometric framework for estimation and inference purposes in Cluster-Based Predictive Local Unit Root Regression Models. Furthermore, emphasis is given in the estimation of covariance matrices under network or cluster dependence as well as in dealing with short-memory versus long-memory processes under abstract degree of persistence. 
 
 
