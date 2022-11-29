@@ -11,12 +11,15 @@ In this paper we extend the methodology proposed in the R package [â€˜PermLURMâ€
 
 - Auerbach, E. (2022). "Testing for Differences in Stochastic Network Structure". Econometrica, 90(3), 1205-1223.
 
+- Basu, Sumanta, and Suhasini Subba Rao (2022). "Graphical models for nonstationary time series." Annals of Statistics (forthcoming).
+
 - Hagemann, A. (2022). "Permutation inference with a finite number of heterogeneous clusters". Review of Economics and Statistics (forthcoming).  
  
-  
 - Hagemann, A. (2017). "Cluster-robust bootstrap inference in quantile regression models". Journal of the American Statistical Association, 112(517), 446-456.
 
 - Hansen, B. E., & Lee, S. (2019). "Asymptotic theory for clustered samples". Journal of econometrics, 210(2), 268-290.
+
+- Katsouris, C. (2021). Optimal Portfolio Choice and Stock Centrality for Tail Risk Events. arXiv preprint arXiv:2112.12031.
 
 -  Kostakis, A., Magdalinos, T., & Stamatogiannis, M. P. (2015). "Robust econometric inference for stock return predictability". The Review of Financial Studies, 28(5), 1506-1553.
  
@@ -46,3 +49,7 @@ Notice that the academic research presented here is considered to be as open acc
 
 # Historical Background
 
+> Standing on the shoulders of giants.
+> 
+> $\textit{''If I have been able to see further, it was only because I stood on the shoulders of giants."}$
+> $- \text{Isaac Newton, 1676}$ 
