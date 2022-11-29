@@ -1,5 +1,5 @@
 ###########################################################################
-### Function borrowed from the R package 'rsample'                      ###
+### Function borrowed from the R package 'GNAR'                         ###
 ###                                                                     ###
 ### Reference: https://github.com/XueningZhu/GNAR_code                  ###
 ###########################################################################
