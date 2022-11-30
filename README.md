@@ -11,7 +11,7 @@
 <p align="center">
   
 <img src="https://github.com/christiskatsouris/ClusterPredictiveLURM/tree/main/data/Abstract.jpeg" width="560"/>
- 
+   
 </p>  
 
   
