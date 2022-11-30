@@ -10,7 +10,7 @@
 
 <p align="center">
   
-<img src=" https://github.com/christiskatsouris/ClusterPredictiveLURM/tree/main/data/persistence.jpg" width="560"/>
+<img src=" https://github.com/christiskatsouris/ClusterPredictiveLURM/tree/main/data/Abstract.png" width="560"/>
  
 </p>  
 
