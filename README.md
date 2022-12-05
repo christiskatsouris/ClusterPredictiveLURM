@@ -14,7 +14,7 @@ Notice that using conventional hypothesis testing methods can result to critical
 
 ## Key References
 
-- Auerbach, E. (2022). "Testing for Differences in Stochastic Network Structure". Econometrica, 90(3), 1205-1223.
+- Müller, U. K., & Watson, M. W. (2022). Spatial Unit Roots.
 
 - Basu, Sumanta, and Suhasini Subba Rao (2022). "Graphical models for nonstationary time series." Annals of Statistics (forthcoming).
 
