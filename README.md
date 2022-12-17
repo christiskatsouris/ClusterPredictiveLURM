@@ -16,6 +16,8 @@ Notice that using conventional hypothesis testing methods can result to critical
 
 - Müller, U. K., & Watson, M. W. (2022). Spatial Unit Roots.
 
+- Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. (2017). When should you adjust standard errors for clustering? (No. w24003). National Bureau of Economic Research.
+
 - Basu, Sumanta, and Suhasini Subba Rao (2022). "Graphical models for nonstationary time series." Annals of Statistics (forthcoming).
 
 - Hagemann, A. (2022). "Permutation inference with a finite number of heterogeneous clusters". Review of Economics and Statistics (forthcoming).  
