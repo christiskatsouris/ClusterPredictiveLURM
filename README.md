@@ -14,6 +14,8 @@ Notice that using conventional hypothesis testing methods can result to critical
 
 ## Key References
 
+- MacKinnon, J. G., Nielsen, M. Ø., & Webb, M. D. (2023). Fast and reliable jackknife and bootstrap methods for cluster-robust inference. arXiv preprint arXiv:2301.04527.
+
 - Müller, U. K., & Watson, M. W. (2022). Spatial Unit Roots.
 
 - Abadie, A., Athey, S., Imbens, G. W., & Wooldridge, J. (2017). When should you adjust standard errors for clustering? (No. w24003). National Bureau of Economic Research.
@@ -47,6 +49,8 @@ Notice that using conventional hypothesis testing methods can result to critical
 - Zhu, X., Wang, W., Wang, H., & Härdle, W. K. (2019). Network quantile autoregression. Journal of econometrics, 212(1), 345-358.
 
 - Zhu, X., & Pan, R. (2020). Grouped network vector autoregression. Statistica Sinica, 30(3), 1437-1462.
+
+- Chambers, M. J., & Kyriacou, M. (2013). Jackknife estimation with a unit root. Statistics & Probability Letters, 83(7), 1677-1682.
 
 
 # Code of Coduct
